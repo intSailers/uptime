@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1611,
-    "timeDay": 1611,
-    "timeWeek": 1611,
-    "timeMonth": 1611,
-    "timeYear": 1611,
+    "time": 1424,
+    "timeDay": 1424,
+    "timeWeek": 1424,
+    "timeMonth": 1424,
+    "timeYear": 1424,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cu-shanghai",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-10": 16
+      "2021-06-10": 18
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$SITE_URL_HINET_HK_FORWARD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hinet-hk",
-    "status": "down",
-    "uptime": "0.51%",
-    "uptimeDay": "0.51%",
-    "uptimeWeek": "0.51%",
-    "uptimeMonth": "0.51%",
-    "uptimeYear": "0.51%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.40%",
+    "uptimeDay": "1.40%",
+    "uptimeWeek": "1.40%",
+    "uptimeMonth": "1.40%",
+    "uptimeYear": "1.40%",
+    "time": 663,
+    "timeDay": 663,
+    "timeWeek": 663,
+    "timeMonth": 663,
+    "timeYear": 663,
     "dailyMinutesDown": {
-      "2021-06-10": 5
+      "2021-06-10": 8
     }
   }
 ]
