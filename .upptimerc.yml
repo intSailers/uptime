@@ -8,6 +8,12 @@ sites:
     icon: https://avatars.githubusercontent.com/u/18746954?s=60&v=4
     assignees:
       - Kevincible
+  - name: 香港｜CN2中转｜原生NTT
+    url: $SITE_URL_PRIHK_FORWARD
+    __dangerous__insecure: true
+    icon: https://avatars.githubusercontent.com/u/18746954?s=60&v=4
+    assignees:
+      - Kevincible
   - name: 日本｜搬瓦工｜上海联通转发
     url: $SH1_SITE_ADDRESS
   - name: 台湾｜HINET｜直连
