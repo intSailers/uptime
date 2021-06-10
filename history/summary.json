@@ -2,7 +2,7 @@
   {
     "name": "香港｜CN2",
     "url": "$HKCN2_SITE_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://avatars.githubusercontent.com/u/18746954?s=60&v=4",
     "slug": "cn-2",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1209,
-    "timeDay": 1209,
-    "timeWeek": 1209,
-    "timeMonth": 1209,
-    "timeYear": 1209,
+    "time": 1145,
+    "timeDay": 1145,
+    "timeWeek": 1145,
+    "timeMonth": 1145,
+    "timeYear": 1145,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-10": 35
+      "2021-06-10": 40
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hinet",
     "status": "down",
-    "uptime": "0.45%",
-    "uptimeDay": "0.45%",
-    "uptimeWeek": "0.45%",
-    "uptimeMonth": "0.45%",
-    "uptimeYear": "0.45%",
+    "uptime": "0.42%",
+    "uptimeDay": "0.42%",
+    "uptimeWeek": "0.42%",
+    "uptimeMonth": "0.42%",
+    "uptimeYear": "0.42%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-10": 2
+      "2021-06-10": 5
     }
   },
   {
@@ -63,16 +63,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hinet-hk",
     "status": "up",
-    "uptime": "45.76%",
-    "uptimeDay": "45.76%",
-    "uptimeWeek": "45.76%",
-    "uptimeMonth": "45.76%",
-    "uptimeYear": "45.76%",
-    "time": 651,
-    "timeDay": 651,
-    "timeWeek": 651,
-    "timeMonth": 651,
-    "timeYear": 651,
+    "uptime": "54.12%",
+    "uptimeDay": "54.12%",
+    "uptimeWeek": "54.12%",
+    "uptimeMonth": "54.12%",
+    "uptimeYear": "54.12%",
+    "time": 654,
+    "timeDay": 654,
+    "timeWeek": 654,
+    "timeMonth": 654,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2021-06-10": 8
     }
