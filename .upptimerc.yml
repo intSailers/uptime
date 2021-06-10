@@ -7,6 +7,8 @@ sites:
     url: $HKCN2_SITE_URL
   - name: 🇨🇳 CU Shanghai
     url: $SH1_SITE_ADDRESS
+  - name: 台湾｜HINET｜HK转发
+    url: $SITE_URL_HINET_HK_FORWARD
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
