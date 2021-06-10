@@ -14,13 +14,15 @@ sites:
     icon: https://avatars.githubusercontent.com/u/18746954?s=60&v=4
     assignees:
       - Kevincible
+  - name: 台湾｜HINET｜HK转发
+    url: $SITE_URL_HINET_HK_FORWARD
+    __dangerous__insecure: true
+    assignees:
+      - rickylsr
   - name: 日本｜搬瓦工｜上海联通转发
     url: $SH1_SITE_ADDRESS
   - name: 台湾｜HINET｜直连
     url: $TW1_SITE_ADDRESS
-  - name: 台湾｜HINET｜HK转发
-    url: $SITE_URL_HINET_HK_FORWARD
-    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
