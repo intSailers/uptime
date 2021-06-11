@@ -17,20 +17,24 @@ sites:
   - name: 台湾｜HINET｜HK转发
     url: $SITE_URL_HINET_HK_FORWARD
     __dangerous__insecure: true
+    icon: https://avatars.githubusercontent.com/u/10785943?s=60&v=4
     assignees:
       - rickylsr
   - name: 日本｜SOFTBANK｜直连
     url: $JP1_SITE_ADDRESS
+    icon: https://avatars.githubusercontent.com/u/10785943?s=60&v=4
     assignees:
       - rickylsr
   - name: 日本｜SOFTBANK｜CHINA UNICOM SHANGHAI转发
     url: $SH1_SITE_ADDRESS
     __dangerous__insecure: true
+    icon: https://avatars.githubusercontent.com/u/10785943?s=60&v=4
     assignees:
       - rickylsr
   - name: 台湾｜HINET｜直连
     url: $TW1_SITE_ADDRESS
     __dangerous__insecure: true
+    icon: https://avatars.githubusercontent.com/u/10785943?s=60&v=4
     assignees:
       - rickylsr
 
