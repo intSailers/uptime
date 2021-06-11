@@ -26,8 +26,12 @@ sites:
   - name: 日本｜搬瓦工｜上海联通转发
     url: $SH1_SITE_ADDRESS
     __dangerous__insecure: true
+    assignees:
+      - rickylsr
   - name: 台湾｜HINET｜直连
     url: $TW1_SITE_ADDRESS
+    assignees:
+      - rickylsr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
