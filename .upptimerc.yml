@@ -44,10 +44,8 @@ status-website:
   cname: uptime.kvcb.me
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: The 5tory of the 5ecret 5tar 5ystem
+  introTitle: "The 5tory of the 5ecret 5tar 5ystem"
+  introMessage: ""
   navbar:
     - title: Status
-      href: /uptime
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: /
