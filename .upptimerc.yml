@@ -30,6 +30,7 @@ sites:
       - rickylsr
   - name: 台湾｜HINET｜直连
     url: $TW1_SITE_ADDRESS
+    __dangerous__insecure: true
     assignees:
       - rickylsr
 
