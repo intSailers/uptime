@@ -19,8 +19,13 @@ sites:
     __dangerous__insecure: true
     assignees:
       - rickylsr
+  - name: 日本｜软银｜直连
+    url: $JP1_SITE_ADDRESS
+    assignees:
+      - rickylsr
   - name: 日本｜搬瓦工｜上海联通转发
     url: $SH1_SITE_ADDRESS
+    __dangerous__insecure: true
   - name: 台湾｜HINET｜直连
     url: $TW1_SITE_ADDRESS
 
