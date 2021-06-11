@@ -59,4 +59,4 @@ workflowSchedule:
   updates: "0 3 * * *"
   uptime: "*/1 * * * *"
   
-runner: [self-hosted, Linux, X64]
+runner: [self-hosted]
