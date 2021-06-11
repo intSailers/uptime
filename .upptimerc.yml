@@ -49,5 +49,3 @@ status-website:
   navbar:
     - title: Status
       href: /
-
-runner: [self-hosted]
