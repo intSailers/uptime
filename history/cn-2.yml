@@ -1,7 +1,7 @@
 url: $HKCN2_SITE_URL
-status: up
-code: 200
-responseTime: 7805
-lastUpdated: 2021-07-10T13:41:49.089Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2021-07-10T14:16:43.310Z
 startTime: Thu Jun 10 2021 17:15:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
