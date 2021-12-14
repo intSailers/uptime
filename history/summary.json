@@ -5,11 +5,11 @@
     "icon": "https://avatars.githubusercontent.com/u/10785943?s=60&v=4",
     "slug": "oracle",
     "status": "down",
-    "uptime": "89.13%",
+    "uptime": "89.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.13%",
+    "uptimeYear": "89.20%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -29,9 +29,9 @@
     "url": "$SH1_SITE_ADDRESS",
     "icon": "https://avatars.githubusercontent.com/u/10785943?s=60&v=4",
     "slug": "cn-2-gia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -40,7 +40,9 @@
     "timeWeek": 61,
     "timeMonth": 80,
     "timeYear": 76,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 0
+    }
   },
   {
     "name": "台湾｜HINET｜直连",
