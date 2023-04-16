@@ -23,15 +23,15 @@
     "icon": "https://avatars.githubusercontent.com/u/10785943?s=60&v=4",
     "slug": "cn-2-gia",
     "status": "up",
-    "uptime": "97.84%",
+    "uptime": "97.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.86%",
     "time": 152,
-    "timeDay": 38,
-    "timeWeek": 113,
-    "timeMonth": 114,
+    "timeDay": 106,
+    "timeWeek": 109,
+    "timeMonth": 113,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2023-02-14": 558,
@@ -63,10 +63,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "89.44%",
     "time": 479,
-    "timeDay": 483,
-    "timeWeek": 491,
-    "timeMonth": 476,
-    "timeYear": 490,
+    "timeDay": 494,
+    "timeWeek": 480,
+    "timeMonth": 474,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2023-04-15": 41,
       "2023-01-25": 17,
@@ -126,8 +126,7 @@
       "2022-05-24": 1312,
       "2022-05-06": 115,
       "2022-05-05": 149,
-      "2022-04-18": 19,
-      "2022-04-16": 294
+      "2022-04-18": 19
     }
   }
 ]
