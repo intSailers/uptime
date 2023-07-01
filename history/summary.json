@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.62%",
-    "time": 131,
-    "timeDay": 138,
-    "timeWeek": 150,
-    "timeMonth": 137,
+    "time": 130,
+    "timeDay": 35,
+    "timeWeek": 134,
+    "timeMonth": 133,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2023-02-14": 558,
@@ -52,18 +52,19 @@
     "icon": "https://avatars.githubusercontent.com/u/10785943?s=60&v=4",
     "slug": "hinet",
     "status": "down",
-    "uptime": "85.55%",
+    "uptime": "85.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "80.72%",
-    "time": 481,
+    "uptimeMonth": "1.40%",
+    "uptimeYear": "80.67%",
+    "time": 482,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 744,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2023-06-30": 50,
+      "2023-07-01": 58,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -150,8 +151,7 @@
       "2022-07-20": 176,
       "2022-07-11": 29,
       "2022-07-10": 28,
-      "2022-07-02": 29,
-      "2022-07-01": 42
+      "2022-07-02": 29
     }
   }
 ]
