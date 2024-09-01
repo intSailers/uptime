@@ -23,18 +23,19 @@
     "icon": "https://avatars.githubusercontent.com/u/10785943?s=60&v=4",
     "slug": "cn-2-gia",
     "status": "down",
-    "uptime": "96.67%",
+    "uptime": "96.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "24.68%",
-    "uptimeYear": "93.71%",
+    "uptimeMonth": "21.37%",
+    "uptimeYear": "93.43%",
     "time": 286,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 381,
-    "timeYear": 342,
+    "timeMonth": 415,
+    "timeYear": 343,
     "dailyMinutesDown": {
-      "2024-08-31": 45,
+      "2024-09-01": 55,
+      "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
@@ -67,7 +68,7 @@
     "icon": "https://avatars.githubusercontent.com/u/10785943?s=60&v=4",
     "slug": "hinet",
     "status": "down",
-    "uptime": "57.85%",
+    "uptime": "57.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -78,7 +79,8 @@
     "timeMonth": 0,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2024-08-31": 45,
+      "2024-09-01": 55,
+      "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
@@ -402,8 +404,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440
+      "2023-09-03": 1440
     }
   }
 ]
