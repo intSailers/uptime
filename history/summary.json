@@ -5,18 +5,19 @@
     "icon": "https://avatars.githubusercontent.com/u/10785943?s=60&v=4",
     "slug": "oracle",
     "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.49%",
+    "uptimeDay": "62.45%",
+    "uptimeWeek": "94.64%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "99.90%",
     "time": 263,
-    "timeDay": 263,
+    "timeDay": 0,
     "timeWeek": 263,
     "timeMonth": 263,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2024-10-13": 0
+      "2024-10-14": 52,
+      "2024-10-13": 489
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://avatars.githubusercontent.com/u/10785943?s=60&v=4",
     "slug": "cn-2-gia",
     "status": "down",
-    "uptime": "92.85%",
-    "uptimeDay": "93.25%",
+    "uptime": "92.82%",
+    "uptimeDay": "62.45%",
     "uptimeWeek": "13.32%",
     "uptimeMonth": "4.45%",
-    "uptimeYear": "82.01%",
+    "uptimeYear": "81.90%",
     "time": 303,
-    "timeDay": 235,
+    "timeDay": 0,
     "timeWeek": 235,
     "timeMonth": 235,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2024-10-13": 0,
+      "2024-10-14": 52,
+      "2024-10-13": 489,
       "2024-10-12": 1048,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -112,7 +114,7 @@
     "icon": "https://avatars.githubusercontent.com/u/10785943?s=60&v=4",
     "slug": "hinet",
     "status": "down",
-    "uptime": "55.78%",
+    "uptime": "55.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -123,7 +125,8 @@
     "timeMonth": 0,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2024-10-13": 951,
+      "2024-10-14": 52,
+      "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -447,8 +450,7 @@
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
-      "2023-10-16": 1440,
-      "2023-10-15": 1440
+      "2023-10-16": 1440
     }
   }
 ]
