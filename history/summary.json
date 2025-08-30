@@ -5,18 +5,19 @@
     "icon": "https://avatars.githubusercontent.com/u/10785943?s=60&v=4",
     "slug": "oracle",
     "status": "down",
-    "uptime": "76.84%",
+    "uptime": "76.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "12.50%",
+    "uptimeYear": "12.23%",
     "time": 263,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2025-08-29": 56,
+      "2025-08-30": 53,
+      "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
@@ -345,18 +346,19 @@
     "icon": "https://avatars.githubusercontent.com/u/10785943?s=60&v=4",
     "slug": "cn-2-gia",
     "status": "down",
-    "uptime": "71.68%",
+    "uptime": "71.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.26%",
-    "time": 339,
+    "time": 341,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-08-29": 56,
+      "2025-08-30": 53,
+      "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
@@ -719,8 +721,7 @@
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
-      "2024-08-31": 1440,
-      "2024-08-30": 1440
+      "2024-08-31": 1440
     }
   },
   {
@@ -729,7 +730,7 @@
     "icon": "https://avatars.githubusercontent.com/u/10785943?s=60&v=4",
     "slug": "hinet",
     "status": "down",
-    "uptime": "44.21%",
+    "uptime": "44.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -740,7 +741,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-29": 56,
+      "2025-08-30": 53,
+      "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
@@ -1103,8 +1105,7 @@
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
-      "2024-08-31": 1440,
-      "2024-08-30": 1440
+      "2024-08-31": 1440
     }
   }
 ]
